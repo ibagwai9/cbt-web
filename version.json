@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0.15",
-  "versionCode": 100015,
+  "version": "1.0.0.16",
+  "versionCode": 100016,
   "apkUrl": "https://github.com/eliteedtech1-debug/cbt-apk/releases/latest/download/EliteCBT.apk",
-  "releaseNotes": "Elite CBT v1.0.0.15",
-  "buildTime": "2026-08-10T10:33:01.000Z",
+  "releaseNotes": "Elite CBT v1.0.0.16",
+  "buildTime": "2026-08-12T17:47:18.000Z",
   "forceUpdate": false
 }
